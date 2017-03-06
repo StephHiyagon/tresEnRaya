@@ -1,0 +1,24 @@
+body {
+  background: #43ccc2;
+}
+
+h1 {
+  text-align: center;
+  font-size: 48px;
+  color: #5743cc;
+  }
+p {
+  text-align: center;
+  font-size: 28px;
+  font-style: italic;
+  color: #4377cc;
+}
+
+#gato td {
+  text-align: center;
+  border: thin solid black;
+  font-size: 300%;
+  height: 1em;
+  padding: 1em;
+  width: 1em;
+}
