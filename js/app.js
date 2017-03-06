@@ -41,12 +41,12 @@ else {
   ganaJugador("O");
 }
 console.log(turno,queTurno,arregloGato);
-if(turno >= 9){
-  alert("empate!!!");
+if(turno < 9){
+    turno ++;
 //  window.location.reload();
 }
 else {
-  turno ++;
+  alert("empate!!!");
 }
 }
 
